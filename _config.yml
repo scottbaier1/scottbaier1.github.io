@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Scott Baier"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Scott Baier"
+description              : &description "Professor of Economics and Associate Dean of Research, Clemson University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,16 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "SCOTT BAIER - is a Professor at Clemson University.  He is currently serving as the Chair of the John E. Walker Department of Economics – a position he has held since 2016.  He holds a doctorate in economics from Michigan State University.  Before joining the faculty at Clemson, Professor Baier was an Assistant Professor at the University of Notre Dame, where he was awarded the Amoco Outstanding Teacher Award. From 2007 to 2008, he served as a senior economist on the President’s Council of Economic Advisors, where he advised President George W. Bush on matters related to the economy. From 1999-2012, Scott was a visiting scholar at the Federal Reserve Bank in Atlanta. More recently, he has also served as a consultant to the Congressional Budget Office (CBO), the United States International Trade Commission (USITC), USAID, and the baseball team formerly known as the Cleveland Indians."
+  location         : "Clemson, South Carolina"
+  employer         : "Clemson University"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://https://scholar.google.com/citations?user=mR7hSlcAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
