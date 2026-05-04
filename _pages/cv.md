@@ -9,6 +9,7 @@ redirect_from:
 
 
 {% include base_path %}
+
 Scott Baier
 Wilbur O. Ann Powers College of Business 	
 395 Chandler Burns Hall 	
@@ -17,6 +18,7 @@ Clemson, SC 29634
 
 
 **Short Bio:** Scott Baier is a Professor of Economics and Associate Dean of Research at Clemson University. From 2016-2024 as Chair of the John E. Walker Department of Economics, he led faculty recruitment, research expansion efforts, fundraising for endowed positions, and the development of innovative graduate programs. His research focuses on globalization, free trade agreements, and long-run economic growth, and he has published extensively in leading economics journals.
+
 Baier earned his Ph.D. from Michigan State University and has held national policy and advisory roles, including service as a Senior Economist on the President’s Council of Economic Advisers. He was a long-time Visiting Scholar at the Federal Reserve Bank of Atlanta and has consulted for the Congressional Budget Office, the U.S. International Trade Commission, USAID, the Cleveland Guardians (Indians), among others.
 
 **
