@@ -7,7 +7,21 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
+Scott Baier
+Wilbur O. Ann Powers College of Business 	
+395 Chandler Burns Hall 	
+Clemson University 	
+Clemson, SC 29634
+
+<img width="468" height="60" alt="image" src="https://github.com/user-attachments/assets/061055bc-e466-4e01-b0e5-959db0bec8e4" />
+
+**Short Bio:** Scott Baier is a Professor of Economics and Associate Dean of Research at Clemson University. From 2016-2024 as Chair of the John E. Walker Department of Economics, he led faculty recruitment, research expansion efforts, fundraising for endowed positions, and the development of innovative graduate programs. His research focuses on globalization, free trade agreements, and long-run economic growth, and he has published extensively in leading economics journals.
+Baier earned his Ph.D. from Michigan State University and has held national policy and advisory roles, including service as a Senior Economist on the President’s Council of Economic Advisers. He was a long-time Visiting Scholar at the Federal Reserve Bank of Atlanta and has consulted for the Congressional Budget Office, the U.S. International Trade Commission, USAID, the Cleveland Guardians (Indians), among others.
+<img width="468" height="145" alt="image" src="https://github.com/user-attachments/assets/57b708a1-1f0e-4b03-bb91-969d900c3000" />
+**
+
 
 Education
 ======
@@ -37,8 +51,6 @@ Work experience
 
 
 
-Publications
-======
 # Published and Forthcoming Papers
 
 32. "Do Economic Integration Agreements Increase Members' Migration? Accounting for Migration in Trade Agreements," with Ward Reesman, *Review of International Economics*, Wiley, (2025).
