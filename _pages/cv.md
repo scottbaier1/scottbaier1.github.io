@@ -49,8 +49,6 @@ Work experience
   * University of Notre Dame  
 
 
-
-
 # Published and Forthcoming Papers
 
 32. "Do Economic Integration Agreements Increase Members' Migration? Accounting for Migration in Trade Agreements," with Ward Reesman, *Review of International Economics*, Wiley, (2025).
