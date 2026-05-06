@@ -8,7 +8,7 @@ date: 2006-01-01
 venue: 'Economic Inquiry'
 paperurl: 'https://academicpages.github.io/files/paper8.pdf'
 slidesurl: ''
-bibtexurl: ''
+bibtexurl: '/files/baier_2006_capital_tfp_growth.bib'
 citation: 'Baier, Scott L., Gerald P. Dwyer Jr., and Robert Tamura (2006). "How Important Are Capital and Total Factor Productivity for Economic Growth?" <i>Economic Inquiry</i>, 44(1), 23–49.'
 ---
 This paper uses a large international dataset to reassess the contributions of capital accumulation and total factor productivity to economic growth, finding that TFP plays a smaller role in average growth but a larger role in cross-country variation.
