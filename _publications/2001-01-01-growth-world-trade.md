@@ -7,7 +7,7 @@ excerpt: 'This paper examines the relative contributions of tariff reductions, t
 date: 2001-01-01
 venue: 'Journal of International Economics'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+slidesurl: 
+bibtexurl: 'baier_2001_growth_world_trade.bib'
 citation: 'Baier, Scott L., and Jeffrey H. Bergstrand (2001). "The Growth of World Trade: Tariffs, Transport Costs, and Income Similarity." <i>Journal of International Economics</i>, 53(1), 1–27.'
 ---
