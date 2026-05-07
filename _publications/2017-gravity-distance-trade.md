@@ -8,6 +8,6 @@ date: 2017-01-01
 venue: 'CESifo Working Paper No. 6357'
 paperurl: 'https://academicpages.github.io/files/paper13.pdf'
 slidesurl: ''
-bibtexurl: ''
+bibtexurl: '/files/baier_2017_gravity_distance_decline.bib'
 citation: 'Baier, Scott L., Amanda Kerr, and Yoto V. Yotov (2017). "Gravity, Distance, and International Trade." CESifo Working Paper No. 6357.'
 ---
