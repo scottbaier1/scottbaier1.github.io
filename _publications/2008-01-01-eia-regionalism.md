@@ -8,7 +8,7 @@ date: 2008-01-01
 venue: 'The World Economy'
 paperurl: 'https://academicpages.github.io/files/paper9.pdf'
 slidesurl: ''
-bibtexurl: ''
+bibtexurl: '/files/baier_2008_eia_regionalism.bib'
 citation: 'Baier, Scott L., Jeffrey H. Bergstrand, Peter Egger, and Patrick A. McLaughlin (2008). "Do Economic Integration Agreements Actually Work? Issues in Understanding the Causes and Consequences of the Growth of Regionalism." <i>The World Economy</i>, 31(4), 461–497.'
 ---
 This paper analyzes the rapid growth of economic integration agreements and shows that accounting for endogenous selection into agreements yields much larger estimated trade effects.
