@@ -8,7 +8,7 @@ date: 2019-01-01
 venue: 'Journal of International Economics'
 paperurl: 'https://academicpages.github.io/files/paper6.pdf'
 slidesurl: ''
-bibtexurl: '/files/baier_2019_economic_growth_long_run.bib'
+bibtexurl: '/files/baier_2019_fta_heterogeneity.bib'
 citation: 'Baier, Scott L., Yoto V. Yotov, and Thomas Zylkin (2019). "On the Widely Differing Effects of Free Trade Agreements: Lessons from Twenty Years of Trade Integration." <i>Journal of International Economics</i>, 116, 206–226.'
 ---
 This paper documents substantial heterogeneity in the effects of free trade agreements and develops a framework to explain and predict these differences using structural gravity methods.
