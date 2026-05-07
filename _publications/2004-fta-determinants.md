@@ -8,6 +8,6 @@ date: 2004-01-01
 venue: 'Journal of International Economics'
 paperurl: '/files/baier-2004-fta-determinants.pdf'
 slidesurl: ''
-bibtexurl: '/files/baier-2004-fta-determinants.bib'
+bibtexurl: '/files/baier_2004_fta_determinants.bib'
 citation: 'Baier, Scott L., and Jeffrey H. Bergstrand (2004). "Economic Determinants of Free Trade Agreements." <i>Journal of International Economics</i>, 64(1), 29–63.'
 ---
