@@ -6,7 +6,7 @@ permalink: /publication/2009-bonus-vetus-ols
 excerpt: 'This paper introduces a simple OLS-based method to approximate trade-cost effects in gravity models while accounting for multilateral resistance terms.'
 date: 2009-01-01
 venue: 'Journal of International Economics'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: '/files/Baier_bergstrand_BV_OLS.pdf'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 bibtexurl: '/files/baier_2009_bonus_vetus_ols.bib'
 citation: 'Baier, Scott L., and Jeffrey H. Bergstrand (2009). "Bonus Vetus OLS: A Simple Method for Approximating International Trade-Cost Effects Using the Gravity Equation." <i>Journal of International Economics</i>, 77(1), 77–85.'
