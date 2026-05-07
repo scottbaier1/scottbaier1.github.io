@@ -8,7 +8,7 @@ date: 2014-01-01
 venue: 'Journal of International Economics'
 paperurl: 'https://academicpages.github.io/files/paper4.pdf'
 slidesurl: 'https://academicpages.github.io/files/slides4.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex4.bib'
+bibtexurl: '/files/baier_2014_margins_trade.bib'
 citation: 'Baier, Scott L., Jeffrey H. Bergstrand, and Michael Feng (2014). "Economic Integration Agreements and the Margins of International Trade." <i>Journal of International Economics</i>, 93(2), 339–350.'
 ---
 This paper provides the first comprehensive evidence that economic integration agreements affect both intensive and extensive margins of trade, with intensive effects occurring sooner and extensive effects emerging over time.
